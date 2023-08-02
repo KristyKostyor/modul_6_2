@@ -1,0 +1,18 @@
+.container{
+    padding-top: 50px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+
+}
+body {
+    background-color: antiquewhite;
+}
+
+.one {
+    border-color: darkblue;
+    padding: 10px 50px;
+}
+.two{
+    font-size: 30px;
+}
